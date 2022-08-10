@@ -12,5 +12,10 @@ Application:
 5. This will generate data in a csv file.
 6. The data captures are the start and end time the camera detected the motions.
 7. It will plot the data to a graph for visual.
+8. Working on .... hover effect in the graph to show the start and end time.
 
 Screen shots of the application:
+
+2. Graph
+
+!["Graph"](https://github.com/enukeWebDev/motion_detector/blob/main/images/Graph.jpg?raw=true)
