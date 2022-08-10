@@ -16,6 +16,10 @@ Application:
 
 Screen shots of the application:
 
+1. Actual Application
+
+!["Actual App"](https://github.com/enukeWebDev/motion_detector/blob/main/images/Output.jpg?raw=true)
+
 2. Graph
 
 !["Graph"](https://github.com/enukeWebDev/motion_detector/blob/main/images/Graph.jpg?raw=true)
